@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="881f04e2-9d2d-47b4-8218-61d819199511" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/stylesheets/users.css.scss" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
     </list>
     <ignored path="sample_app.iws" />
@@ -14,6 +13,7 @@
     <file path="/a.rxml" changelist="881f04e2-9d2d-47b4-8218-61d819199511" time="1386667900753" ignored="false" />
     <file path="/a.rb" changelist="881f04e2-9d2d-47b4-8218-61d819199511" time="1386667901139" ignored="false" />
     <file path="/custom.css.scss" changelist="881f04e2-9d2d-47b4-8218-61d819199511" time="1386668994532" ignored="false" />
+    <file path="/production.rb" changelist="881f04e2-9d2d-47b4-8218-61d819199511" time="1386678932727" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,12 @@
         <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="10" column="6" selection-start="205" selection-end="205" vertical-scroll-proportion="-5.769231">
-              <folding />
+              <folding>
+                <marker date="1386668776778" expanded="true" signature="50:204" placeholder="..." />
+                <marker date="1386668776778" expanded="true" signature="74:197" placeholder="..." />
+                <marker date="1386668776778" expanded="true" signature="88:186" placeholder="..." />
+                <marker date="1386668776778" expanded="true" signature="99:171" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,7 +74,10 @@
         <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="23" column="88" selection-start="613" selection-end="613" vertical-scroll-proportion="-11.958333">
-              <folding />
+              <folding>
+                <marker date="1386671519932" expanded="true" signature="67:612" placeholder="..." />
+                <marker date="1386671519932" expanded="true" signature="97:605" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,7 +86,11 @@
         <entry file="file://$PROJECT_DIR$/app/views/shared/_error_messages.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="11" column="9" selection-start="334" selection-end="334" vertical-scroll-proportion="-6.875">
-              <folding />
+              <folding>
+                <marker date="1386671752073" expanded="true" signature="58:323" placeholder="..." />
+                <marker date="1386671752073" expanded="true" signature="96:182" placeholder="..." />
+                <marker date="1386671752073" expanded="true" signature="193:312" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,7 +107,7 @@
       <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="2" selection-start="1770" selection-end="1770" vertical-scroll-proportion="0.6181319">
+            <state line="42" column="3" selection-start="1771" selection-end="1771" vertical-scroll-proportion="0.6181319">
               <folding />
             </state>
           </provider>
@@ -955,7 +967,12 @@
     <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="6" selection-start="205" selection-end="205" vertical-scroll-proportion="-5.769231">
-          <folding />
+          <folding>
+            <marker date="1386668776778" expanded="true" signature="50:204" placeholder="..." />
+            <marker date="1386668776778" expanded="true" signature="74:197" placeholder="..." />
+            <marker date="1386668776778" expanded="true" signature="88:186" placeholder="..." />
+            <marker date="1386668776778" expanded="true" signature="99:171" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -983,14 +1000,21 @@
     <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="88" selection-start="613" selection-end="613" vertical-scroll-proportion="-11.958333">
-          <folding />
+          <folding>
+            <marker date="1386671519932" expanded="true" signature="67:612" placeholder="..." />
+            <marker date="1386671519932" expanded="true" signature="97:605" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/shared/_error_messages.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="9" selection-start="334" selection-end="334" vertical-scroll-proportion="-6.875">
-          <folding />
+          <folding>
+            <marker date="1386671752073" expanded="true" signature="58:323" placeholder="..." />
+            <marker date="1386671752073" expanded="true" signature="96:182" placeholder="..." />
+            <marker date="1386671752073" expanded="true" signature="193:312" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1017,7 +1041,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="2" selection-start="1770" selection-end="1770" vertical-scroll-proportion="0.6181319">
+        <state line="42" column="3" selection-start="1771" selection-end="1771" vertical-scroll-proportion="0.6181319">
           <folding />
         </state>
       </provider>
